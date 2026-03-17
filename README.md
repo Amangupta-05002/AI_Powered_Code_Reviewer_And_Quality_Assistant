@@ -1,19 +1,10 @@
 # 🛡️ AI-Powered Code Reviewer & Quality Assistant
 
-```{=html}
-<p align="center">
-```
-`<b>`{=html}🚀 Intelligent AI-driven tool to analyze, validate, and
-improve Python code quality`</b>`{=html}
-```{=html}
-</p>
-```
-
 ------------------------------------------------------------------------
 
 ## 🔥 Live Demo
 
-🌐 https://your-app-name.streamlit.app
+🌐 [https://your-app-name.streamlit.app](https://aipoweredcodereviewerandqualityassistant-r7bntrsxywqpqznpp7gzs.streamlit.app/)
 
 ------------------------------------------------------------------------
 
@@ -55,12 +46,6 @@ It helps developers: - Improve code quality 📈\
 -   Real-time test visualization
 -   Advanced filters & search
 -   Export (JSON/CSV)
-
-### 🔄 CI/CD Ready
-
--   Pre-commit checks
--   Coverage tracking
--   Quality gate system
 
 ------------------------------------------------------------------------
 
