@@ -9,7 +9,7 @@ python-docx
 PyPDF2
 pandas
 matplotlib
-ploty
+plotly
 pytest
 lxml
 
