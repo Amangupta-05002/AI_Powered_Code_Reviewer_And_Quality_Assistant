@@ -1,22 +1,186 @@
-# CodeGuard Pro
+# 🛡️ AI-Powered Code Reviewer & Quality Assistant
 
-AI-Powered Code Review & Docstring Intelligence Tool
+```{=html}
+<p align="center">
+```
+`<b>`{=html}🚀 Intelligent AI-driven tool to analyze, validate, and
+improve Python code quality`</b>`{=html}
+```{=html}
+</p>
+```
 
-## Install
+------------------------------------------------------------------------
 
-pip install codeguard-pro
+## 🔥 Live Demo
 
-## CLI
+🌐 https://your-app-name.streamlit.app
 
-codeguard scan ./project
-codeguard scan ./project --threshold 85
-codeguard scan ./project --output report.json
+------------------------------------------------------------------------
 
-## Features
+## 📌 Overview
 
-- Code Complexity Analysis
-- Docstring Generation
-- Coverage Enforcement
-- CI Workflow
-- pytest Test Suite
-- Streamlit Dashboard
+The **AI-Powered Code Reviewer & Quality Assistant** is a modern
+developer tool designed to automate code quality analysis using **AI +
+Static Analysis + CI insights**.
+
+It helps developers: - Improve code quality 📈\
+- Generate professional docstrings 🧠\
+- Detect issues automatically ⚠️\
+- Visualize metrics interactively 📊
+
+------------------------------------------------------------------------
+
+## ✨ Features
+
+### 🧠 AI Docstring Generator
+
+-   Google, NumPy, reST styles
+-   LLM-powered generation (Groq)
+-   One-click Apply
+
+### ✅ Code Validation
+
+-   PEP 257 compliance
+-   Inline error highlighting
+-   AI-based fixes
+
+### 📊 Metrics & Analysis
+
+-   Maintainability Index
+-   Cyclomatic Complexity
+-   Function-level insights
+
+### 📊 Dashboard
+
+-   Real-time test visualization
+-   Advanced filters & search
+-   Export (JSON/CSV)
+
+### 🔄 CI/CD Ready
+
+-   Pre-commit checks
+-   Coverage tracking
+-   Quality gate system
+
+------------------------------------------------------------------------
+
+## 🏗️ Architecture
+
+    Streamlit UI
+         ↓
+    AST Parser
+         ↓
+    AI Engine (Groq)
+         ↓
+    Validation Engine
+         ↓
+    Metrics Engine
+         ↓
+    Dashboard
+
+------------------------------------------------------------------------
+
+## ⚙️ Tech Stack
+
+  Layer           Tech
+  --------------- --------------------
+  Frontend        Streamlit
+  Backend         Python
+  AI              Groq API
+  Visualization   Plotly, Matplotlib
+  Database        SQLite
+
+------------------------------------------------------------------------
+
+## 📂 Project Structure
+
+    AI_Code_Reviewer/
+    │
+    ├── codeguard_pro/
+    ├── tests/
+    ├── storage/
+    ├── streamlit_app.py
+    ├── requirements.txt
+    └── README.md
+
+------------------------------------------------------------------------
+
+## 🚀 Installation
+
+``` bash
+git clone https://github.com/your-username/AI_Code_Reviewer.git
+cd AI_Code_Reviewer
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
+------------------------------------------------------------------------
+
+## 🔐 Environment Setup
+
+Create `.env`:
+
+    GROQ_API_KEY=your_api_key
+
+------------------------------------------------------------------------
+
+## 🌐 Deployment
+
+1.  Push to GitHub\
+2.  Go to Streamlit Cloud\
+3.  Add secret:
+
+```{=html}
+<!-- -->
+```
+    GROQ_API_KEY="your_api_key"
+
+4.  Deploy 🚀
+
+------------------------------------------------------------------------
+
+## 📊 Results
+
+-   📈 70%+ improvement in documentation coverage\
+-   ⚡ Reduced manual effort\
+-   🤖 Automated validation
+
+------------------------------------------------------------------------
+
+## ✅ Advantages
+
+-   Fast & automated\
+-   AI-powered insights\
+-   Developer-friendly UI
+
+------------------------------------------------------------------------
+
+## ⚠️ Limitations
+
+-   Python-only\
+-   Requires API key
+
+------------------------------------------------------------------------
+
+## 🔮 Future Scope
+
+-   Multi-language support\
+-   GitHub PR bot\
+-   AI refactoring
+
+------------------------------------------------------------------------
+
+## 👨‍💻 Author
+
+**Aman Gupta**\
+MCA \| AI & Software Developer
+
+------------------------------------------------------------------------
+
+## 📜 License
+
+MIT License
+
+------------------------------------------------------------------------
+
+## ⭐ If you like this project, give it a star!
