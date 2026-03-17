@@ -12,7 +12,7 @@
 
 The **AI-Powered Code Reviewer & Quality Assistant** is a modern
 developer tool designed to automate code quality analysis using **AI +
-Static Analysis + CI insights**.
+Static Analysis **.
 
 It helps developers: - Improve code quality 📈\
 - Generate professional docstrings 🧠\
