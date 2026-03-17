@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: codeguard-pro
+Version: 1.0.0
+Summary: AI-Powered Code Review & Docstring Intelligence Tool
+Author: Aman Gupta
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: radon
+Requires-Dist: matplotlib
+Requires-Dist: pytest
+Requires-Dist: groq

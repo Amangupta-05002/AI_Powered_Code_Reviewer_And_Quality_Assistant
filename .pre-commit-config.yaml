@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: codeguard-review
+        name: CodeGuard Review
+        entry: python -m codeguard_pro.cli
+        language: system
+        types: [python]

@@ -1,0 +1,15 @@
+streamlit
+groq
+typer
+radon
+pydocstyle
+ruff
+bandit
+python-docx
+PyPDF2
+pandas
+matplotlib
+ploty
+pytest
+
+
