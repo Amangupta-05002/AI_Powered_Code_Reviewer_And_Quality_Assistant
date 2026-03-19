@@ -1,11 +1,6 @@
 # 🛡️ AI-Powered Code Reviewer & Quality Assistant
 
 ------------------------------------------------------------------------
-
-## 🔥 Live Demo
-
-🌐 [https://your-app-name.streamlit.app](https://aipoweredcodereviewerandqualityassistant-r7bntrsxywqpqznpp7gzs.streamlit.app/)
-
 ------------------------------------------------------------------------
 
 ## 📌 Overview
